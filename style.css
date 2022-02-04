@@ -13,3 +13,11 @@
 .nono  {
     display: none;
 }
+
+ol {
+    display: flex;
+}
+
+img {
+    width: 30rem;
+}
